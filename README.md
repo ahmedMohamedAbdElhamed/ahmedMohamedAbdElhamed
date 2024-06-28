@@ -33,7 +33,7 @@ My skills include:
 Let's connect and collaborate! You can find me on:
 
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ahmedsoftwaredev/)
-- **Email:** ahmedsoftwaredev3@gmail.com
+- **Email:** ahmed.abdelhamid10@outlook.com
 
 Feel free to reach out if you want to discuss web development, user interface design, or simply connect with fellow developers. I'm always eager to collaborate and explore new opportunities.
 
